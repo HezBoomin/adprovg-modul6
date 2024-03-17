@@ -11,3 +11,6 @@ Finally, the function prints the `http_request` vector to the console with the `
 ## Commit 2 Reflection
 
 ![commit2](./image/milestone2.png)
+
+## Commit 3 Reflection
+![commit3](./image/milestone3.png)
