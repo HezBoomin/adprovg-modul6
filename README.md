@@ -14,3 +14,9 @@ Finally, the function prints the `http_request` vector to the console with the `
 
 ## Commit 3 Reflection
 ![commit3](./image/milestone3.png)
+
+## Commit 4 Reflection
+`/sleep` is slow because we set the sleep time to 10 seconds. The server will wait for 10 seconds before sending the response back to the client.
+
+## Commit 5 Reflection
+The ThreadPool works by creating a vector of workers. Each worker is a thread that waits for a job to execute. The worker will execute the job when it is available. The worker will continue to execute jobs until the server is shut down. The ThreadPool is responsible for managing the workers and sending jobs to them. The ThreadPool will create a new worker when it is initialized and will send jobs to the workers when they are available.
